@@ -10,12 +10,8 @@ The source files are located in the [`src`](./src) folder. All web components ar
 
 Find more information on the main repo on [GitHub](https://github.com/muenzpraeger/create-lwc-app).
 
+### Notes
 
-
-
-
-
-### Notes 
 cd conference-app
 npm run watch (or yarn watch if you selected yarn when the CLI prompted you for a package manager).
 Note
